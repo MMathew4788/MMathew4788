@@ -17,8 +17,35 @@
 <a href="mailto:mmathew4788@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
 
-### View my Codepen: 
-<a href="https://codepen.io/ManojMathew/full/yLEwzMW" target="blank">Responsive Pricing Grid Multicolour-Tailwind</a><br>
-<a href="https://codepen.io/ManojMathew/full/ZERPKWd" target="blank">Responsive Pricing Grid Dark Theme-Tailwind</a><br>
-<a href="https://codepen.io/ManojMathew/full/bGKJeyE" target="blank">Product Modal for ecommerce Website-Tailwind</a><br>
-<a href="https://codepen.io/ManojMathew/full/VwdOvVB" target="blank">Responsive Login Page-Tailwind</a>
+### View my Codepen Mini Projects: 
+<a href="https://codepen.io/ManojMathew/full/yLEwzMW" target="blank">
+<img src="https://github.com/MMathew4788/MMathew4788/blob/main/images/1.jpg"
+  alt="Responsive Pricing Grid Multicolour-Tailwind"
+  title="Responsive Pricing Grid Multicolour-Tailwind"
+  style="width: 500px"><br>
+  Responsive Pricing Grid Multicolour-Tailwind</a><br>
+
+<a href="https://codepen.io/ManojMathew/full/ZERPKWd" target="blank">
+<img src="https://github.com/MMathew4788/MMathew4788/blob/main/images/2.jpg"
+  alt="Responsive Pricing Grid Dark Theme-Tailwind"
+  title="Responsive Pricing Grid Dark Theme-Tailwind"
+  style="width: 500px"><br>
+  Responsive Pricing Grid Dark Theme-Tailwind</a><br>
+  
+<a href="https://codepen.io/ManojMathew/full/bGKJeyE" target="blank">
+<img src="https://github.com/MMathew4788/MMathew4788/blob/main/images/3.jpg"
+  alt="Product Modal for ecommerce Website-Tailwind"
+  title="Product Modal for ecommerce Website-Tailwind"
+  style="width: 500px"><br>
+Product Modal for ecommerce Website-Tailwind</a><br>
+
+<a href="https://codepen.io/ManojMathew/full/VwdOvVB" target="blank">
+<img src="https://github.com/MMathew4788/MMathew4788/blob/main/images/4.jpg"
+  alt="Responsive Login Page-Tailwind"
+  title="Responsive Login Page-Tailwind"
+  style="width: 500px"><br>
+  Responsive Login Page-Tailwind</a>
+
+
+
+  
