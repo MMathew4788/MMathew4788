@@ -24,6 +24,7 @@
   title="Responsive Pricing Grid Multicolour-Tailwind"
   style="width: 500px"><br>
   Responsive Pricing Grid Multicolour-Tailwind</a><br>
+  --------------------------------------------------------<br>
 
 <a href="https://codepen.io/ManojMathew/full/ZERPKWd" target="blank">
 <img src="https://github.com/MMathew4788/MMathew4788/blob/main/images/2.jpg"
@@ -31,6 +32,7 @@
   title="Responsive Pricing Grid Dark Theme-Tailwind"
   style="width: 500px"><br>
   Responsive Pricing Grid Dark Theme-Tailwind</a><br>
+   --------------------------------------------------------<br>
   
 <a href="https://codepen.io/ManojMathew/full/bGKJeyE" target="blank">
 <img src="https://github.com/MMathew4788/MMathew4788/blob/main/images/3.jpg"
@@ -38,6 +40,7 @@
   title="Product Modal for ecommerce Website-Tailwind"
   style="width: 500px"><br>
 Product Modal for ecommerce Website-Tailwind</a><br>
+ --------------------------------------------------------<br>
 
 <a href="https://codepen.io/ManojMathew/full/VwdOvVB" target="blank">
 <img src="https://github.com/MMathew4788/MMathew4788/blob/main/images/4.jpg"
