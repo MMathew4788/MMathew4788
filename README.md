@@ -9,6 +9,8 @@
 ## Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png" alt="VSCode" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://img.icons8.com/color/35/000000/git.png" alt="Git" width="40" height="40"/> <img src="https://img.icons8.com/color/35/000000/github.png" alt="github" width="40" height="40"/>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmathew4788&show_icons=true&locale=en&layout=compact" alt="mmathew4788" /></p>
+
 ### Connect with me:
 
 <p align="left">  
