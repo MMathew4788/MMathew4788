@@ -14,7 +14,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png" alt="VSCode" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> &nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="next.js" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/200px-Nextjs-logo.svg.png" alt="next.js" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png" alt="Node.js" width="40" height="40"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" alt="NPM" width="40" height="40"/> &nbsp;
 <img src="https://img.icons8.com/color/35/000000/git.png" alt="Git" width="40" height="40"/> &nbsp;
 <img src="https://img.icons8.com/color/35/000000/github.png" alt="github" width="40" height="40"/>&nbsp;
 
