@@ -1,8 +1,8 @@
 ## Hi, there 👋 
 #### If you're here you might want to know a little bit about me, so here's what I've got:
 ### I’m Manoj Mathew a passionate learner, always looking to upgrade my technical skills and contribute back to the society.
-- 👀 I’m currently interested in Front End Web Development Projects.
-- 🌱 I’m currently learning skills required for a great Front End Developer.
+- 👀 I’m currently interested in Web Development Projects.
+- 🌱 I’m currently learning skills required for a great Web Developer.
 - 📫 Reach me at mmathew4788@gmail.com
 
 
@@ -13,6 +13,7 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png" alt="VSCode" width="40" height="40"/> &nbsp;
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma icon" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/200px-Nextjs-logo.svg.png" alt="next.js" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png" alt="Node.js" width="40" height="40"/> &nbsp;
