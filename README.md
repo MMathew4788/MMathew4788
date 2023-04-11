@@ -2,7 +2,7 @@
 #### If you're here you might want to know a little bit about me, so here's what I've got:
 ### I’m Manoj Mathew a passionate learner, always looking to upgrade my technical skills and contribute back to the society.
 - 👀 I’m currently interested in Web Development Projects.
-- 🌱 I’m currently learning skills required for a great Web Developer.
+- 🌱 I’m currently learning skills required for a good Web Developer.
 - 📫 Reach me at mmathew4788@gmail.com
 
 
