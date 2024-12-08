@@ -1,8 +1,8 @@
 ## Hi, there 👋 
 #### If you're here you might want to know a little bit about me, so here's what I've got:
 ### I’m Manoj Mathew a passionate learner, always looking to upgrade my technical skills and contribute back to the society.
-- 👀 <b>Data Enthusiast:</b> Delving into data to uncover insights, solve problems, and support data-driven decision-making.
-- 🌱 <b>Currently Learning:</b> Continuously improving my skills in data analysis, programming and machine learning fundamentals.
+- 👀 Delving into data to uncover insights, solve problems, and support data-driven decision-making.
+- 🌱 Continuously improving my skills in data analysis, programming and machine learning fundamentals.
 - 📫 <b>Reach me:</b> mmathew4788@gmail.com
 
 <br>
