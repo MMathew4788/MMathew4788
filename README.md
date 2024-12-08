@@ -1,33 +1,13 @@
 ## Hi, there 👋 
 #### If you're here you might want to know a little bit about me, so here's what I've got:
 ### I’m Manoj Mathew a passionate learner, always looking to upgrade my technical skills and contribute back to the society.
-- 👀 I’m currently interested in Web Development Projects.
-- 🌱 I’m currently learning skills required for a good Web Developer.
-- 📫 Reach me at mmathew4788@gmail.com
-
-
-## Languages and Tools:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
-<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png" alt="VSCode" width="40" height="40"/> &nbsp;
-<img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma icon" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/200px-Nextjs-logo.svg.png" alt="next.js" width="40" height="30"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png" alt="Node.js" width="40" height="40"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" alt="NPM" width="40" height="30"/> &nbsp;
-<img src="https://img.icons8.com/color/35/000000/git.png" alt="Git" width="40" height="40"/> &nbsp;
-<img src="https://img.icons8.com/color/35/000000/github.png" alt="github" width="40" height="40"/>&nbsp;
-
+- 👀 <b>Data Enthusiast:</b> Delving into data to uncover insights, solve problems, and support data-driven decision-making.
+- 🌱 <b>Currently Learning:</b> Continuously improving my skills in data analysis, programming and machine learning fundamentals.
+- 📫 <b>Reach me:</b> mmathew4788@gmail.com
 
 <br>
 <p align=left><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mmathew4788&show_icons=true&locale=en&layout=compact" alt="mmathew4788" /></p>
 <p align=left><img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mmathew4788&border=61dafb&hide_border=true" alt="zumrudu-anka" /></p><br><br><br><br><br><br><br>
-
-### Check out my  <a href='https://codepen.io/ManojMathew' target="blank">CodePen account</a>
 
 ### Connect with me:
 
@@ -38,5 +18,3 @@
 </p>
 
 
-
-  
