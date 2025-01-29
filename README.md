@@ -7,7 +7,7 @@
 
 <br>
 <p align=left><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mmathew4788&show_icons=true&locale=en&layout=compact" alt="mmathew4788" /></p>
-<p align=left><img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mmathew4788&border=61dafb&hide_border=true" alt="zumrudu-anka" /></p><br><br><br><br><br><br><br>
+<br>
 
 ### Connect with me:
 
